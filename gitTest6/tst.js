@@ -1,5 +1,5 @@
 ﻿
 function tt ()
 {
-	return 33;	
+	return 69;	
 }
